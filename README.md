@@ -35,4 +35,4 @@ This approach allowed for dynamic yet coherent level generation across different
 A streamlined system designed to manage overall game states.
 
 Instead of using multiple Unity scenes, this setup runs the entire game within a single scene and swaps between active prefabs as needed.  
-This significantly reduced load times — especially between runs — keeping players in the action and minimizing downtime.
+This significantly reduced load times keeping players in the action and minimizing downtime.
